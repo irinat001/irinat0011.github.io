@@ -1,0 +1,18 @@
+h1{
+    color:gray;
+
+}
+h1 > span {
+    color:#5d5d5d;
+    font-style:italic;
+}
+p{
+    font-size:18px;
+    color:red;
+    color: rgb(0,255,0);
+}
+.some{
+    color:blue;
+    background:red;
+}
+}
